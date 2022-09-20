@@ -1,0 +1,12 @@
+C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask.Models\bin\Debug\net5.0\OvaluateTask.Models.deps.json
+C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask.Models\bin\Debug\net5.0\OvaluateTask.Models.dll
+C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask.Models\bin\Debug\net5.0\OvaluateTask.Models.pdb
+C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask.Models\obj\Debug\net5.0\OvaluateTask.Models.csproj.AssemblyReference.cache
+C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask.Models\obj\Debug\net5.0\OvaluateTask.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask.Models\obj\Debug\net5.0\OvaluateTask.Models.AssemblyInfoInputs.cache
+C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask.Models\obj\Debug\net5.0\OvaluateTask.Models.AssemblyInfo.cs
+C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask.Models\obj\Debug\net5.0\OvaluateTask.Models.csproj.CoreCompileInputs.cache
+C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask.Models\obj\Debug\net5.0\OvaluateTask.Models.dll
+C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask.Models\obj\Debug\net5.0\refint\OvaluateTask.Models.dll
+C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask.Models\obj\Debug\net5.0\OvaluateTask.Models.pdb
+C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask.Models\obj\Debug\net5.0\ref\OvaluateTask.Models.dll

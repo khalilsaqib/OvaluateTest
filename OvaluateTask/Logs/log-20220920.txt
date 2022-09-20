@@ -1,0 +1,22 @@
+2022-09-20T23:33:07.5904601+05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-09-20T23:33:07.6154925+05:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-09-20T23:33:07.6230462+05:00  [INF] Content root path: "C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask" (b5d60022)
+2022-09-20T23:33:48.3572125+05:00 80000041-0002-fd00-b63f-84710c7967bb [INF] User Get List of Customers (6ee1f54e)
+2022-09-20T23:43:23.4232868+05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-09-20T23:43:23.4500444+05:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-09-20T23:43:23.4573320+05:00  [INF] Content root path: "C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask" (b5d60022)
+2022-09-20T23:43:23.9907645+05:00 80000057-0001-fe00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.InvalidOperationException: Session has not been configured for this application or request.
+   at Microsoft.AspNetCore.Http.DefaultHttpContext.get_Session()
+   at OvaluateTask.Startup.<>c.<<Configure>b__5_0>d.MoveNext() in C:\Users\Khalil Ur Rehman\source\repos\OvaluateTask\OvaluateTask\Startup.cs:line 93
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-09-20T23:44:30.1623127+05:00  [FTL] Application startup exception (6c57a5ba)
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Session.ISessionStore' while attempting to activate 'Microsoft.AspNetCore.Session.SessionMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
